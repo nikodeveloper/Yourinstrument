@@ -1,0 +1,11 @@
+body{
+	background : #C3C3C3;	
+}
+#login{
+	border: 10px solid #BCEEFE;
+	border-radius: 10px;
+	height: 100px;
+	margin: auto;
+	text-align: center;
+	width: 200px;
+}
